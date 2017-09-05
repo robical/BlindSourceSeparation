@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<audacityproject projname="progetto_audio_modfile_data" version="1.1.0" audacityversion="1.2.6" sel0="0.0000000000" sel1="2.0965507594" vpos="0" h="0.0000000000" zoom="225.6086564472" rate="22050.000000" >
+	<tags title="" artist="" album="" track="-1" year="" genre="-1" comments="" id3v2="1" />
+	<wavetrack name="Toms_diner22" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="44176" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00033.au' len='44176' min='-0.665385' max='0.707107' rms='0.119886'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="Magica2" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="43981" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00031.au' len='43981' min='-0.707107' max='0.656383' rms='0.101833'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+	<wavetrack name="nonmisomiglia22" channel="2" linked="0" offset="0.00000000" rate="22050.000000" gain="1.000000" pan="0.000000" >
+		<sequence maxsamples="262144" sampleformat="262159" numsamples="43883" >
+			<waveblock start="0" >
+				<simpleblockfile filename='b00028.au' len='43883' min='-0.690812' max='0.707107' rms='0.124673'/>
+			</waveblock>
+		</sequence>
+		<envelope numpoints='0'>
+		</envelope>
+	</wavetrack>
+</audacityproject>

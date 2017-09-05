@@ -1,0 +1,3 @@
+Ciao Carlo, secondo me unendo tutto abbiamo già anche troppo materiale, forse conviene che ci vediamo il 16 e mettiamo tutto assieme per bene, accorciando quello che c'è da accorciare.
+Prova ad usare la STFT e ISTFT che ti ho mandato con finestra da 512 campioni e passo 1/4, ho ottenuto separazione perfetta di tutte e tre le voci, con angoli (-40,10,80), guadagni incredibili tipo 22dB per Tom's Diner. 
+Non ho capito perchè ma il mio powerpoint non mi fa sentire i collegamenti audio che hai messo..

@@ -1,0 +1,19 @@
+%creazione artificiale di segnali
+
+
+Fs=8000; %frequenza di campionamento 1KHz
+Lenght=24100;  %lunghezza in campioni del segnale
+
+%creazione dell'asse temporale
+
+T=1/Fs;  %periodo di campionamento
+t=(0:Lenght-1).*T;
+
+%creazione dei segnali (vettori)
+
+seno150=sin(2*pi*150*t);
+seno1000=sin(2*pi*1000*t);
+seno150=sin(2*pi*150*t);
+seno150=sin(2*pi*150*t);
+seno150=sin(2*pi*150*t);
+seno150=sin(2*pi*150*t);
